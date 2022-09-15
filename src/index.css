@@ -1,0 +1,12 @@
+#root{
+  width: 70vh;
+  height: 80vh;
+  background-color: #ffff;
+  margin: auto;
+  margin-top: 50px;
+  border-radius: 10px;
+}
+
+body{
+  background-color: #E5E5E5;
+}
